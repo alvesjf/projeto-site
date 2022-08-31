@@ -1,2 +1,2 @@
 # projeto-site
- Site desenvolvido primeiro projeto curso Git
+ Site desenvolvido primeiro projeto curso Git e GitHub
